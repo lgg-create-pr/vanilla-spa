@@ -36,4 +36,4 @@ new Module(scriptElement, functionWillBeExecutedAfterViewLoad, functionWillBeExe
 * MIT
 * [original repo](https://github.com/SantiagoGdaR/vanilla-spa)
 * [module loading feature](https://github.com/crisim/vanilla-spa)
-* [current repo](https://github.com/lgg-create-pr/vanilla-spa)
+* [current repo](https://github.com/lgg-tools/vanilla-spa)
